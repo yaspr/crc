@@ -1,0 +1,4 @@
+# 1 - Implementations of CRC (Cyclic Redundancy Check)
+  - 16-bit CRC
+  - 32-bit CRC
+  - 64-bit CRC
