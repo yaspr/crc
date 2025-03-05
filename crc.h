@@ -11,7 +11,7 @@ typedef struct crc_param_s {
   u64 poly;
 
   //Initial value
-  u64 iv;      // initial value
+  u64 iv;
 
   //Reverse bits of input
   i8 rin;
